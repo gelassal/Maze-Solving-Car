@@ -19,11 +19,11 @@ An autonomous wall-following robot built on the TM4C123 (ARM Cortex-M4) microcon
 
 ```
   --------- wall ---------
-        \         /
-    [L]  \       /  [R]
+        \    |    /
+    [L]  \  [F]  /  [R]
           [Robot]
-            |
-           [F]
+             |
+           
   --------- wall ---------
 ```
 
